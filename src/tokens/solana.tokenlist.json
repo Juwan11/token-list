@@ -13882,6 +13882,20 @@
     },
     {
       "chainId": 101,
+      "address": "ETZeThHoDauWxbC6KpH5WMaXWfDbRCzDaaaivyycpU51",
+      "symbol": "EZ",
+      "name": "EZ Money Coin",
+      "decimals": 8,
+      "logoURI": "",
+      "tags": [
+        "lp-token"
+        "dapp"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
       "address": "F3rWkGAtdjWcU1rr16Wq4YPTgFdsyb1oS1xdy5tr9K1r",
       "symbol": "SLRS/USDC",
       "name": "Orca Double Dip Token (SLRS/USDC[aquafarm])",
